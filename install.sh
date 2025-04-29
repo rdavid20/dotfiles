@@ -53,4 +53,7 @@ case "$DISTRO" in
 		;;
 esac
 
+export XCURSOR_THEME=Bibata-Modern-Ice
+export XCURSOR_SIZE=24
+
 echo "Installation Complete"
