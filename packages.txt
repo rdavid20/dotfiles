@@ -10,3 +10,4 @@ wl-clipboard
 # AUR packages
 aur:swaylock-effects
 aur:wlogout
+aur:bibata-cursor-theme
