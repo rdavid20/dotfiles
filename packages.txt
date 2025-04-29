@@ -1,6 +1,12 @@
+# Repo packages
 stow
 neovim
-
+alacritty
+fish
+fuzzel
+waybar
+wl-clipboard
 
 # AUR packages
 aur:swaylock-effects
+aur:wlogout
