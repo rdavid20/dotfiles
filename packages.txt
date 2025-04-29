@@ -1,0 +1,6 @@
+stow
+neovim
+
+
+# AUR packages
+aur:swaylock-effects
