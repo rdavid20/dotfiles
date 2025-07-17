@@ -153,9 +153,7 @@
     /* No styles */
 }
 
-#custom-spotify {
-    color: rgb(102, 220, 105);
-}
+
 
 #temperature {
     /* No styles */
@@ -174,18 +172,14 @@
 }
 
 #workspaces button {
-    border-top: 2px solid transparent;
-    /* To compensate for the top border and still have vertical centering */
-    padding-bottom: 2px;
-    padding-left: 10px;
-    padding-right: 10px;
-    color: #888888;
+    font-weight: normal;
+    color: white;
 }
 
-#workspaces button.focused {
-    border-color: #4c7899;
-    color: white;
-    background-color: #285577;
+#workspaces button.active {
+    color: #323232;
+    background-color: white;
+    font-weight: bold;
 }
 
 #workspaces button.urgent {
