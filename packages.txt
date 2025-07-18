@@ -6,6 +6,9 @@ fish
 fuzzel
 waybar
 wl-clipboard
+hyprland
+hyprpaper
+hyprlock
 
 # AUR packages
 aur:swaylock-effects
